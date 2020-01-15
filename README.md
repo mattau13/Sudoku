@@ -15,4 +15,4 @@ This application is a work-in-progress and was created as a means to work on my 
 # Screenshots
 ![](Game-Capture.png)
 # Notes
-Currently, the pygame library is quite laggy on macOS. This program is run ideally on Windows 10.
+Currently, the pygame library is quite laggy on macOS. This program is ideally run on a system operating Windows 10.
