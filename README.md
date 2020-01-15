@@ -13,6 +13,6 @@ This application is a work-in-progress and was created as a means to work on my 
 - Start Page - An initial start page can be created, which denotes controls.
 - Board Input - Currently works only with the board that is hard-coded into the program. I will eventually create a UI that allows users to setup their own, unique board prior to the game starting.
 # Screenshots
-![](Game-Capture2.png)
+![](Game-Capture.png)
 # Notes
 Currently, the pygame library is quite laggy on macOS. This program is run ideally on Windows 10.
