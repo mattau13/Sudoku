@@ -14,4 +14,5 @@ This application is a work-in-progress and was created as a means to work on my 
 - Board Input - Currently works only with the board that is hard-coded into the program. I will eventually create a UI that allows users to setup their own, unique board prior to the game starting.
 # Screenshots
 Will be added shortly.
-
+# Notes
+Currently, the pygame library is quite laggy on macOS. This program is run ideally on Windows 10.
